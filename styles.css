@@ -1,0 +1,15 @@
+img{
+    height:500px;
+}
+h1{
+font-family: 'Gloria Hallelujah', cursive;
+}
+h2{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+p{
+   font-family: 'Poiret One', cursive;
+}
+.simple-linear {
+  background: linear-gradient(black, pink);
+}
